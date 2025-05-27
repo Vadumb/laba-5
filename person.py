@@ -228,3 +228,4 @@ class StudentCollection:
             if student.group == group:
                 yield student#изменения в файле person.py
   - Еще одно изменение в файле person.py
+“Конфликтное изменение в файле person.py”
