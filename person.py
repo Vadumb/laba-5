@@ -226,4 +226,4 @@ class StudentCollection:
         """
         for student in self.students:
             if student.group == group:
-                yield student
+                yield student#изменения в файле person.py
