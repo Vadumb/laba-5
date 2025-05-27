@@ -28,4 +28,4 @@ students.add_student(new_student)
 # Фильтрация по группе
 print("\n=== Студенты группы УИДбд-21 ===")
 for s in students.filter_by_group('УИДбд-21'):
-    print(f"{s.surname}, группа: {s.group}")
+    print(f"{s.surname}, группа: {s.group}")#изменения в main.py в ветке new_branch
